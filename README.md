@@ -1,5 +1,5 @@
 # autokbisw – Automatic keyboard input language switcher
-
+### Forked to keep from changing without warning given it is a keylogger after all
 Automatic keyboard input language switching for macOS.
 
 `autokbisw` is made for those who use multiple keyboards with different key layouts (e.g. English and French), and frequently switch between them. It runs as a background service and remembers the last active keyboard input language for a specific keyboard and automatically activates it when typing on that keyboard again.
